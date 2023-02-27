@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 
 Here's a walkthrough of implemented features:
-View GIF Walkthrough using the following link: https://imgur.com/a/1mYuIJ7
+View GIF Walkthrough using the following link: https://imgur.com/a/OgCZUYH
 (Please Note!!! - gif size to large to display in README.md)
 
 <!-- Replace this with whatever GIF tool you used! -->
