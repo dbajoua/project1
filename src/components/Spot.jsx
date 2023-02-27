@@ -4,7 +4,7 @@ const Spot = (props) => {
 
     return (
 
-        <div>
+        
 
         <td className={'Spot ' + props.color}>
                 <h2>{props.spot}</h2>
@@ -13,7 +13,7 @@ const Spot = (props) => {
 
         
 
-        </div>
+        
 
     )
 
